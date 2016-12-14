@@ -1,0 +1,29 @@
+{
+    "name": "ush",
+    "version": "0.0.1",
+    "description": "Universal SHell collecting no more than 100 small but useful cli tools",
+    "main": "index.js",
+    "bin": {
+        "ush": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YounGoat/nodejs.ush.git"
+    },
+    "keywords": [
+        "CLI"
+    ],
+    "author": "youngoat@163.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/YounGoat/nodejs.ush/issues"
+    },
+    "homepage": "https://github.com/YounGoat/nodejs.ush#readme",
+    "dependencies": {
+        "httpcode": "^1.0.2",
+        "mime": "^1.3.4"
+    }
+}

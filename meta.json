@@ -1,0 +1,16 @@
+{
+	"commands": {
+		"mime": {
+			"args": "<path> | <extname>",
+			"desc": "Find the relevant MIME type according to extname."
+		},
+		"hcode": {
+			"args": "<HTTP_STATUS_CODE> ...",
+			"desc": "Explain the meaning of HTTP statu."
+		}
+	},
+
+	"alias": {
+		"httpcode": "hcode"
+	}
+}
