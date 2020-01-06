@@ -1,6 +1,6 @@
 {
     "name": "ush",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "description": "Universal SHell collecting no more than 100 small but useful cli tools",
     "main": "index.js",
     "bin": {
